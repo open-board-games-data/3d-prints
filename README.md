@@ -60,6 +60,9 @@ The dataset is regenerated from Meepleprint's live catalog. Check `manifest.json
 
 Released under the [Open Database License v1.0](./LICENSE). Attribution and per-source licensing information is available in [`ATTRIBUTION.md`](./ATTRIBUTION.md).
 
-If you use this data, please credit this dataset and link back to this repository. Attribution helps others discover the project and helps us grow and improve the dataset.
+If you use this data, please credit this dataset and link back to this repository. Attribution helps others discover the project and helps us grow and improve the dataset. If your product has a frontend, please use this image, including a link to this repository:
+
+<img width="2241" height="463" alt="open-bg-data-logo" src="https://github.com/user-attachments/assets/9133689f-e602-4d25-be6e-af47461980f6" />
+
 
 Found a bad match or have an idea for the dataset? [Open an issue](../../issues).
