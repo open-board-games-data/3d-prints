@@ -11,11 +11,11 @@
 
 ## What is this?
 
-This repository contains an open dataset of board games and the 3D-printable accessories available for them.
+This repository contains an open, community-powered dataset of board games and their 3D-printable accessories.
 
-Board games are sourced from BoardGameGeek and matched to print listings from Printables, MakerWorld, Thingiverse, Cults3D, and other platforms.
+Board games are sourced from BoardGameGeek and matched with print listings from Printables, MakerWorld, Thingiverse, Cults3D, and other platforms. The dataset is continuously improved through community contributions, reviews, and corrections from board gamers and 3D-print enthusiasts.
 
-The dataset powers the catalog behind [MeeplePrint](https://meepleprint.com) and is designed to answer one simple question:
+The dataset powers the catalog behind MeeplePrint and answers one simple question:
 
 > **Does my board game have 3D-printable upgrades, and where can I find them?**
 
