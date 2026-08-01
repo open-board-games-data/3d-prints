@@ -48,7 +48,12 @@ jobs:
           # a noisy daily commit regardless of whether the dataset actually
           # changed. Check every other file first; only touch manifest.json
           # (and commit at all) once something real did.
-          if git diff --quiet -- . ':!manifest.json' && git diff --cached --quiet -- . ':!manifest.json'; then
+          #
+          # Stage before diffing: plain `git diff` never shows untracked
+          # files, so a freshly downloaded file that isn't tracked yet would
+          # otherwise be invisible here and silently dropped.
+          git add -A -- . ':!manifest.json'
+          if git diff --cached --quiet; then
             echo "No changes — dataset is already up to date."
             git checkout -- manifest.json
             exit 0
