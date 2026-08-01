@@ -1,0 +1,15 @@
+{
+    "generated_at": "2026-07-31T19:52:22+00:00",
+    "schema_version": 1,
+    "files": {
+        "games.jsonl": 30914,
+        "game_relationships.jsonl": 1673,
+        "prints.jsonl": 23940,
+        "print_variants.jsonl": 2371,
+        "print_variant_plates.jsonl": 8145,
+        "sources.jsonl": 27,
+        "categories.jsonl": 17,
+        "print_category.jsonl": 24156,
+        "game_print.jsonl": 29026
+    }
+}

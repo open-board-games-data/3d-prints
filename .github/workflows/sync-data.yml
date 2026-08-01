@@ -1,0 +1,61 @@
+name: Sync dataset from Meepleprint
+
+on:
+  schedule:
+    # Meepleprint regenerates the export daily at 03:00 UTC (see
+    # routes/console.php in the meepleprint app) — this runs an hour later
+    # to give that job time to finish.
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the latest export
+        run: |
+          set -euo pipefail
+          base="https://meepleprint.com/storage/open-data"
+          files=(
+            games.jsonl
+            game_relationships.jsonl
+            prints.jsonl
+            print_variants.jsonl
+            print_variant_plates.jsonl
+            print_category.jsonl
+            game_print.jsonl
+            sources.jsonl
+            categories.jsonl
+            manifest.json
+          )
+          for file in "${files[@]}"; do
+            curl -fsSL "$base/$file" -o "$file"
+          done
+
+      - name: Commit and push only if the actual data changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # manifest.json's generated_at changes on every single export run
+          # even when nothing else did — diffing it in would turn this into
+          # a noisy daily commit regardless of whether the dataset actually
+          # changed. Check every other file first; only touch manifest.json
+          # (and commit at all) once something real did.
+          if git diff --quiet -- . ':!manifest.json' && git diff --cached --quiet -- . ':!manifest.json'; then
+            echo "No changes — dataset is already up to date."
+            git checkout -- manifest.json
+            exit 0
+          fi
+
+          generated_at=$(python3 -c "import json; print(json.load(open('manifest.json'))['generated_at'])")
+
+          git add -A
+          git commit -m "Update dataset (generated ${generated_at})"
+          git push
