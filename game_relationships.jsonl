@@ -445,6 +445,7 @@
 {"id":9927,"subject_game_id":714,"object_game_id":1029,"relationship_type":"integration"}
 {"id":9936,"subject_game_id":715,"object_game_id":35052,"relationship_type":"expansion"}
 {"id":9943,"subject_game_id":718,"object_game_id":38709,"relationship_type":"expansion"}
+{"id":9950,"subject_game_id":718,"object_game_id":1904,"relationship_type":"reimplementation"}
 {"id":10080,"subject_game_id":732,"object_game_id":1131,"relationship_type":"reimplementation"}
 {"id":10139,"subject_game_id":752,"object_game_id":1341,"relationship_type":"reimplementation"}
 {"id":10140,"subject_game_id":752,"object_game_id":3040,"relationship_type":"reimplementation"}
