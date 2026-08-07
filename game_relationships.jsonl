@@ -440,6 +440,7 @@
 {"id":9535,"subject_game_id":678,"object_game_id":964,"relationship_type":"integration"}
 {"id":9541,"subject_game_id":678,"object_game_id":1887,"relationship_type":"integration"}
 {"id":9551,"subject_game_id":680,"object_game_id":1519,"relationship_type":"integration"}
+{"id":9601,"subject_game_id":1114,"object_game_id":684,"relationship_type":"reimplementation"}
 {"id":9613,"subject_game_id":685,"object_game_id":2995,"relationship_type":"integration"}
 {"id":9719,"subject_game_id":692,"object_game_id":1153,"relationship_type":"reimplementation"}
 {"id":9908,"subject_game_id":2781,"object_game_id":711,"relationship_type":"reimplementation"}
