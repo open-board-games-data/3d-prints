@@ -210,6 +210,7 @@
 {"id":3423,"subject_game_id":190,"object_game_id":479,"relationship_type":"integration"}
 {"id":3424,"subject_game_id":190,"object_game_id":964,"relationship_type":"integration"}
 {"id":3425,"subject_game_id":190,"object_game_id":501,"relationship_type":"integration"}
+{"id":3430,"subject_game_id":190,"object_game_id":1538,"relationship_type":"integration"}
 {"id":3431,"subject_game_id":190,"object_game_id":1887,"relationship_type":"integration"}
 {"id":3436,"subject_game_id":191,"object_game_id":33691,"relationship_type":"expansion"}
 {"id":3446,"subject_game_id":192,"object_game_id":1075,"relationship_type":"reimplementation"}
@@ -318,6 +319,7 @@
 {"id":4979,"subject_game_id":294,"object_game_id":479,"relationship_type":"integration"}
 {"id":4980,"subject_game_id":294,"object_game_id":964,"relationship_type":"integration"}
 {"id":4981,"subject_game_id":294,"object_game_id":501,"relationship_type":"integration"}
+{"id":4986,"subject_game_id":294,"object_game_id":1538,"relationship_type":"integration"}
 {"id":4987,"subject_game_id":294,"object_game_id":1887,"relationship_type":"integration"}
 {"id":4995,"subject_game_id":295,"object_game_id":1289,"relationship_type":"reimplementation"}
 {"id":4998,"subject_game_id":296,"object_game_id":34852,"relationship_type":"expansion"}
@@ -397,6 +399,7 @@
 {"id":6395,"subject_game_id":427,"object_game_id":479,"relationship_type":"integration"}
 {"id":6396,"subject_game_id":427,"object_game_id":964,"relationship_type":"integration"}
 {"id":6397,"subject_game_id":427,"object_game_id":501,"relationship_type":"integration"}
+{"id":6402,"subject_game_id":427,"object_game_id":1538,"relationship_type":"integration"}
 {"id":6403,"subject_game_id":427,"object_game_id":1887,"relationship_type":"integration"}
 {"id":6423,"subject_game_id":429,"object_game_id":1332,"relationship_type":"integration"}
 {"id":6425,"subject_game_id":429,"object_game_id":3469,"relationship_type":"integration"}
@@ -423,6 +426,7 @@
 {"id":6761,"subject_game_id":479,"object_game_id":2254,"relationship_type":"integration"}
 {"id":6762,"subject_game_id":479,"object_game_id":964,"relationship_type":"integration"}
 {"id":6763,"subject_game_id":479,"object_game_id":501,"relationship_type":"integration"}
+{"id":6768,"subject_game_id":479,"object_game_id":1538,"relationship_type":"integration"}
 {"id":6769,"subject_game_id":479,"object_game_id":1887,"relationship_type":"integration"}
 {"id":6842,"subject_game_id":6209,"object_game_id":484,"relationship_type":"reimplementation"}
 {"id":6912,"subject_game_id":2208,"object_game_id":492,"relationship_type":"reimplementation"}
@@ -444,6 +448,7 @@
 {"id":7079,"subject_game_id":501,"object_game_id":1376,"relationship_type":"integration"}
 {"id":7082,"subject_game_id":501,"object_game_id":2254,"relationship_type":"integration"}
 {"id":7083,"subject_game_id":501,"object_game_id":964,"relationship_type":"integration"}
+{"id":7088,"subject_game_id":501,"object_game_id":1538,"relationship_type":"integration"}
 {"id":7093,"subject_game_id":699,"object_game_id":502,"relationship_type":"reimplementation"}
 {"id":7131,"subject_game_id":1465,"object_game_id":503,"relationship_type":"reimplementation"}
 {"id":7233,"subject_game_id":509,"object_game_id":2787,"relationship_type":"reimplementation"}
@@ -461,6 +466,7 @@
 {"id":7386,"subject_game_id":534,"object_game_id":1376,"relationship_type":"integration"}
 {"id":7389,"subject_game_id":534,"object_game_id":2254,"relationship_type":"integration"}
 {"id":7390,"subject_game_id":534,"object_game_id":964,"relationship_type":"integration"}
+{"id":7395,"subject_game_id":534,"object_game_id":1538,"relationship_type":"integration"}
 {"id":7396,"subject_game_id":534,"object_game_id":1887,"relationship_type":"integration"}
 {"id":7414,"subject_game_id":551,"object_game_id":537,"relationship_type":"reimplementation"}
 {"id":7429,"subject_game_id":787,"object_game_id":539,"relationship_type":"reimplementation"}
@@ -478,6 +484,7 @@
 {"id":7679,"subject_game_id":566,"object_game_id":1376,"relationship_type":"integration"}
 {"id":7682,"subject_game_id":566,"object_game_id":2254,"relationship_type":"integration"}
 {"id":7683,"subject_game_id":566,"object_game_id":964,"relationship_type":"integration"}
+{"id":7688,"subject_game_id":566,"object_game_id":1538,"relationship_type":"integration"}
 {"id":7689,"subject_game_id":566,"object_game_id":1887,"relationship_type":"integration"}
 {"id":7706,"subject_game_id":591,"object_game_id":569,"relationship_type":"reimplementation"}
 {"id":7908,"subject_game_id":582,"object_game_id":1486,"relationship_type":"reimplementation"}
@@ -526,6 +533,7 @@
 {"id":9531,"subject_game_id":678,"object_game_id":1376,"relationship_type":"integration"}
 {"id":9534,"subject_game_id":678,"object_game_id":2254,"relationship_type":"integration"}
 {"id":9535,"subject_game_id":678,"object_game_id":964,"relationship_type":"integration"}
+{"id":9540,"subject_game_id":678,"object_game_id":1538,"relationship_type":"integration"}
 {"id":9541,"subject_game_id":678,"object_game_id":1887,"relationship_type":"integration"}
 {"id":9551,"subject_game_id":680,"object_game_id":1519,"relationship_type":"integration"}
 {"id":9601,"subject_game_id":1114,"object_game_id":684,"relationship_type":"reimplementation"}
@@ -611,6 +619,7 @@
 {"id":12290,"subject_game_id":964,"object_game_id":1335,"relationship_type":"integration"}
 {"id":12292,"subject_game_id":964,"object_game_id":1376,"relationship_type":"integration"}
 {"id":12295,"subject_game_id":964,"object_game_id":2254,"relationship_type":"integration"}
+{"id":12300,"subject_game_id":964,"object_game_id":1538,"relationship_type":"integration"}
 {"id":12301,"subject_game_id":964,"object_game_id":1887,"relationship_type":"integration"}
 {"id":12349,"subject_game_id":973,"object_game_id":4631,"relationship_type":"integration"}
 {"id":12370,"subject_game_id":975,"object_game_id":3294,"relationship_type":"reimplementation"}
