@@ -142,6 +142,7 @@
 {"id":1860,"subject_game_id":118,"object_game_id":3986,"relationship_type":"reimplementation"}
 {"id":1882,"subject_game_id":120,"object_game_id":3435,"relationship_type":"reimplementation"}
 {"id":1909,"subject_game_id":124,"object_game_id":32476,"relationship_type":"expansion"}
+{"id":1917,"subject_game_id":126,"object_game_id":1682,"relationship_type":"reimplementation"}
 {"id":1918,"subject_game_id":126,"object_game_id":609,"relationship_type":"reimplementation"}
 {"id":1924,"subject_game_id":128,"object_game_id":171,"relationship_type":"reimplementation"}
 {"id":1936,"subject_game_id":129,"object_game_id":313,"relationship_type":"reimplementation"}
