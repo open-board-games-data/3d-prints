@@ -15789,6 +15789,8 @@
 {"game_id":426,"print_id":52455,"match_confidence":100}
 {"game_id":426,"print_id":56917,"match_confidence":100}
 {"game_id":426,"print_id":56918,"match_confidence":100}
+{"game_id":426,"print_id":57369,"match_confidence":100}
+{"game_id":426,"print_id":57370,"match_confidence":100}
 {"game_id":426,"print_id":62113,"match_confidence":100}
 {"game_id":426,"print_id":62114,"match_confidence":100}
 {"game_id":426,"print_id":62115,"match_confidence":100}
@@ -16880,6 +16882,7 @@
 {"game_id":476,"print_id":25619,"match_confidence":100}
 {"game_id":476,"print_id":25620,"match_confidence":100}
 {"game_id":476,"print_id":60946,"match_confidence":100}
+{"game_id":476,"print_id":62929,"match_confidence":100}
 {"game_id":477,"print_id":8496,"match_confidence":100}
 {"game_id":477,"print_id":32133,"match_confidence":100}
 {"game_id":477,"print_id":45097,"match_confidence":100}
@@ -21784,6 +21787,7 @@
 {"game_id":706,"print_id":56228,"match_confidence":100}
 {"game_id":706,"print_id":57418,"match_confidence":100}
 {"game_id":706,"print_id":57632,"match_confidence":100}
+{"game_id":706,"print_id":62930,"match_confidence":100}
 {"game_id":707,"print_id":34364,"match_confidence":100}
 {"game_id":707,"print_id":46909,"match_confidence":100}
 {"game_id":707,"print_id":46910,"match_confidence":100}
@@ -23556,6 +23560,7 @@
 {"game_id":811,"print_id":52767,"match_confidence":100}
 {"game_id":811,"print_id":52768,"match_confidence":100}
 {"game_id":811,"print_id":62721,"match_confidence":100}
+{"game_id":811,"print_id":62937,"match_confidence":50}
 {"game_id":812,"print_id":11407,"match_confidence":100}
 {"game_id":812,"print_id":24689,"match_confidence":100}
 {"game_id":812,"print_id":47385,"match_confidence":100}
@@ -25458,6 +25463,8 @@
 {"game_id":1012,"print_id":58524,"match_confidence":100}
 {"game_id":1012,"print_id":58525,"match_confidence":100}
 {"game_id":1012,"print_id":58526,"match_confidence":100}
+{"game_id":1012,"print_id":62927,"match_confidence":100}
+{"game_id":1012,"print_id":62928,"match_confidence":75}
 {"game_id":1013,"print_id":12463,"match_confidence":100}
 {"game_id":1013,"print_id":12464,"match_confidence":100}
 {"game_id":1013,"print_id":12465,"match_confidence":100}
