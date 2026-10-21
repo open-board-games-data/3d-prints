@@ -6544,6 +6544,8 @@
 {"game_id":98,"print_id":63044,"match_confidence":100}
 {"game_id":98,"print_id":63196,"match_confidence":100}
 {"game_id":98,"print_id":63635,"match_confidence":100}
+{"game_id":98,"print_id":63728,"match_confidence":100}
+{"game_id":98,"print_id":63729,"match_confidence":100}
 {"game_id":99,"print_id":3464,"match_confidence":100}
 {"game_id":99,"print_id":3465,"match_confidence":100}
 {"game_id":99,"print_id":3466,"match_confidence":75}
@@ -27103,6 +27105,8 @@
 {"game_id":1246,"print_id":60690,"match_confidence":100}
 {"game_id":1246,"print_id":60691,"match_confidence":100}
 {"game_id":1246,"print_id":60692,"match_confidence":100}
+{"game_id":1246,"print_id":63724,"match_confidence":100}
+{"game_id":1246,"print_id":63725,"match_confidence":100}
 {"game_id":1248,"print_id":11379,"match_confidence":100}
 {"game_id":1248,"print_id":11381,"match_confidence":100}
 {"game_id":1248,"print_id":59466,"match_confidence":100}
@@ -27683,6 +27687,12 @@
 {"game_id":1312,"print_id":60612,"match_confidence":100}
 {"game_id":1312,"print_id":60613,"match_confidence":100}
 {"game_id":1312,"print_id":63061,"match_confidence":100}
+{"game_id":1312,"print_id":63740,"match_confidence":100}
+{"game_id":1312,"print_id":63741,"match_confidence":100}
+{"game_id":1312,"print_id":63742,"match_confidence":100}
+{"game_id":1312,"print_id":63743,"match_confidence":100}
+{"game_id":1312,"print_id":63744,"match_confidence":100}
+{"game_id":1312,"print_id":63745,"match_confidence":100}
 {"game_id":1313,"print_id":6690,"match_confidence":100}
 {"game_id":1313,"print_id":6691,"match_confidence":100}
 {"game_id":1313,"print_id":26177,"match_confidence":100}
@@ -29154,6 +29164,8 @@
 {"game_id":1421,"print_id":63346,"match_confidence":100}
 {"game_id":1421,"print_id":63547,"match_confidence":100}
 {"game_id":1421,"print_id":63643,"match_confidence":75}
+{"game_id":1421,"print_id":63737,"match_confidence":100}
+{"game_id":1421,"print_id":63738,"match_confidence":100}
 {"game_id":1422,"print_id":3220,"match_confidence":100}
 {"game_id":1422,"print_id":3221,"match_confidence":100}
 {"game_id":1422,"print_id":3222,"match_confidence":100}
