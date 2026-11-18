@@ -10556,6 +10556,7 @@
 {"game_id":212,"print_id":63515,"match_confidence":100}
 {"game_id":212,"print_id":64189,"match_confidence":75}
 {"game_id":212,"print_id":65393,"match_confidence":100}
+{"game_id":212,"print_id":65512,"match_confidence":50}
 {"game_id":213,"print_id":5563,"match_confidence":100}
 {"game_id":213,"print_id":29079,"match_confidence":100}
 {"game_id":213,"print_id":29080,"match_confidence":100}
@@ -12022,6 +12023,7 @@
 {"game_id":240,"print_id":64293,"match_confidence":100}
 {"game_id":240,"print_id":64294,"match_confidence":100}
 {"game_id":240,"print_id":65045,"match_confidence":100}
+{"game_id":240,"print_id":65518,"match_confidence":100}
 {"game_id":241,"print_id":6223,"match_confidence":100}
 {"game_id":241,"print_id":48598,"match_confidence":100}
 {"game_id":242,"print_id":3521,"match_confidence":100}
@@ -13362,6 +13364,7 @@
 {"game_id":286,"print_id":50497,"match_confidence":100}
 {"game_id":286,"print_id":50498,"match_confidence":100}
 {"game_id":286,"print_id":53562,"match_confidence":100}
+{"game_id":286,"print_id":65527,"match_confidence":100}
 {"game_id":287,"print_id":6788,"match_confidence":100}
 {"game_id":287,"print_id":6789,"match_confidence":100}
 {"game_id":287,"print_id":6790,"match_confidence":100}
@@ -14346,6 +14349,8 @@
 {"game_id":328,"print_id":56432,"match_confidence":100}
 {"game_id":328,"print_id":56841,"match_confidence":100}
 {"game_id":328,"print_id":64423,"match_confidence":100}
+{"game_id":328,"print_id":65532,"match_confidence":100}
+{"game_id":328,"print_id":65533,"match_confidence":100}
 {"game_id":329,"print_id":7155,"match_confidence":100}
 {"game_id":329,"print_id":7156,"match_confidence":100}
 {"game_id":329,"print_id":7157,"match_confidence":100}
@@ -14394,6 +14399,7 @@
 {"game_id":329,"print_id":53590,"match_confidence":100}
 {"game_id":329,"print_id":56754,"match_confidence":100}
 {"game_id":329,"print_id":60306,"match_confidence":100}
+{"game_id":329,"print_id":65534,"match_confidence":100}
 {"game_id":330,"print_id":49743,"match_confidence":100}
 {"game_id":330,"print_id":49744,"match_confidence":100}
 {"game_id":331,"print_id":7182,"match_confidence":100}
@@ -14456,6 +14462,7 @@
 {"game_id":333,"print_id":52755,"match_confidence":100}
 {"game_id":333,"print_id":52756,"match_confidence":100}
 {"game_id":333,"print_id":55968,"match_confidence":100}
+{"game_id":333,"print_id":65535,"match_confidence":100}
 {"game_id":334,"print_id":4107,"match_confidence":100}
 {"game_id":334,"print_id":4109,"match_confidence":100}
 {"game_id":334,"print_id":4110,"match_confidence":100}
@@ -18483,6 +18490,7 @@
 {"game_id":509,"print_id":65050,"match_confidence":100}
 {"game_id":509,"print_id":65051,"match_confidence":100}
 {"game_id":509,"print_id":65052,"match_confidence":100}
+{"game_id":509,"print_id":65516,"match_confidence":100}
 {"game_id":510,"print_id":8991,"match_confidence":100}
 {"game_id":510,"print_id":8992,"match_confidence":100}
 {"game_id":510,"print_id":32836,"match_confidence":50}
@@ -18835,6 +18843,7 @@
 {"game_id":540,"print_id":25298,"match_confidence":100}
 {"game_id":540,"print_id":25299,"match_confidence":100}
 {"game_id":541,"print_id":32908,"match_confidence":100}
+{"game_id":541,"print_id":65524,"match_confidence":100}
 {"game_id":542,"print_id":9140,"match_confidence":100}
 {"game_id":542,"print_id":9141,"match_confidence":100}
 {"game_id":542,"print_id":9142,"match_confidence":100}
@@ -18977,6 +18986,7 @@
 {"game_id":558,"print_id":32941,"match_confidence":100}
 {"game_id":558,"print_id":44199,"match_confidence":100}
 {"game_id":558,"print_id":46292,"match_confidence":100}
+{"game_id":558,"print_id":65526,"match_confidence":100}
 {"game_id":559,"print_id":4979,"match_confidence":100}
 {"game_id":559,"print_id":4984,"match_confidence":100}
 {"game_id":559,"print_id":9203,"match_confidence":100}
@@ -19216,6 +19226,7 @@
 {"game_id":572,"print_id":64411,"match_confidence":100}
 {"game_id":572,"print_id":64412,"match_confidence":100}
 {"game_id":572,"print_id":65113,"match_confidence":100}
+{"game_id":572,"print_id":65528,"match_confidence":100}
 {"game_id":573,"print_id":24218,"match_confidence":100}
 {"game_id":575,"print_id":9299,"match_confidence":100}
 {"game_id":575,"print_id":9300,"match_confidence":100}
@@ -28297,6 +28308,9 @@
 {"game_id":1312,"print_id":64809,"match_confidence":100}
 {"game_id":1312,"print_id":64810,"match_confidence":100}
 {"game_id":1312,"print_id":64811,"match_confidence":100}
+{"game_id":1312,"print_id":65536,"match_confidence":100}
+{"game_id":1312,"print_id":65537,"match_confidence":100}
+{"game_id":1312,"print_id":65538,"match_confidence":100}
 {"game_id":1313,"print_id":6690,"match_confidence":100}
 {"game_id":1313,"print_id":6691,"match_confidence":100}
 {"game_id":1313,"print_id":26177,"match_confidence":100}
